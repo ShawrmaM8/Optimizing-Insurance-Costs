@@ -1,0 +1,6 @@
+1) What counts as "high-cost"?
+Spending that exceeds the 75th percentile (Top 25% spender)
+
+2) Is the goal reducing cost or identifying who needs intervention early?
+- The goal is to reduce long-term costs through early diagnosis & intervention. While costs may be high, they will eventually plateau in the long run depending on the model efficiency.
+- We will optimize for fewer false negatives
